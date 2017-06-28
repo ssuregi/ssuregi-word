@@ -1,0 +1,9 @@
+{
+  "name": "ssuregi-word",
+  "version": "1.0.0",
+  "description": "Crossword with ssuregi!",
+  "main": "index.js",
+  "repository": "git@github.com:ssuregi/ssuregi-word.git",
+  "author": "ssuregi <ssuregi0@gmail.com>",
+  "license": "MIT"
+}
